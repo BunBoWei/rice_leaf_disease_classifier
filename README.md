@@ -49,7 +49,7 @@ The dataset for this project must be downloaded and structured correctly before 
   * **Step 4.2: Extract and arrange the dataset**
     After downloading, extract the compressed file. You must then arrange the extracted folders to match the following structure within your main project folder:
 
-    _IMPORTANT: You might want to modify the subfolders' names as they might be trailing spaces or typos._    
+    _IMPORTANT: You might want to modify the subfolders' names as there might be trailing spaces or typos._    
 
 <!-- end list -->
 ```
