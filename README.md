@@ -1,3 +1,7 @@
+Of course. Here is the final version of the `README.md` with the requested additions to the "Dataset Setup" section.
+
+-----
+
 # Rice Leaf Disease Classification
 
 A computer vision project for CSCI935 to classify five common rice leaf diseases using PyTorch and an EfficientNetV2 model.
@@ -29,7 +33,7 @@ cd <your-repo-name>
 
 ### 3\. Install Dependencies
 
-All required packages are listed in `requirements.txt`. 
+All required packages are listed in `requirements.txt`.
 
 ```bash
 pip install -r requirements.txt
@@ -37,8 +41,17 @@ pip install -r requirements.txt
 
 ### 4\. Dataset Setup
 
-Before running any scripts, you must place the dataset in the correct directory structure. The project expects the following layout:
+The dataset for this project must be downloaded and structured correctly before running any scripts.
 
+  * **Step 4.1: Download the dataset**
+    The dataset, "Dhan-Shomadhan", is available [here](https://uowmailedu-my.sharepoint.com/personal/wanqing_uow_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwanqing%5Fuow%5Fedu%5Fau%2FDocuments%2F2025%2DCSCI935%2DSP25%2FGroup%20Project&ga=1).  
+
+  * **Step 4.2: Extract and arrange the dataset**
+    After downloading, extract the compressed file. You must then arrange the extracted folders to match the following structure within your main project folder:
+
+    _IMPORTANT: You might want to modify the subfolders' names as they might be trailing spaces or typos._    
+
+<!-- end list -->
 ```
 your-project-folder/
 ├── Dhan-Shomadhan/
