@@ -1,7 +1,3 @@
-Of course. Here is the final version of the `README.md` with the requested additions to the "Dataset Setup" section.
-
------
-
 # Rice Leaf Disease Classification
 
 A computer vision project for CSCI935 to classify five common rice leaf diseases using PyTorch and an EfficientNetV2 model.
